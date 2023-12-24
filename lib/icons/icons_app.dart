@@ -1,0 +1,61 @@
+import 'package:flutter/widgets.dart';
+
+class IconsApp {
+  IconsApp._();
+
+  static const String _fontFamily = 'app';
+
+  static const IconData abc = IconData(0xe900, fontFamily: _fontFamily);
+  static const IconData arrowBack = IconData(0xe903, fontFamily: _fontFamily);
+  static const IconData arrowDown = IconData(0xe901, fontFamily: _fontFamily);
+  static const IconData arrowDownCircle = IconData(0xe902, fontFamily: _fontFamily);
+  static const IconData arrowRight = IconData(0xe904, fontFamily: _fontFamily);
+  static const IconData arrowUp = IconData(0xe905, fontFamily: _fontFamily);
+  static const IconData bell = IconData(0xe906, fontFamily: _fontFamily);
+  static const IconData camera = IconData(0xe907, fontFamily: _fontFamily);
+  static const IconData close = IconData(0xe908, fontFamily: _fontFamily);
+  static const IconData conversation = IconData(0xe909, fontFamily: _fontFamily);
+  static const IconData cup = IconData(0xe90a, fontFamily: _fontFamily);
+  static const IconData darkMode = IconData(0xe90b, fontFamily: _fontFamily);
+  static const IconData dictionary = IconData(0xe90c, fontFamily: _fontFamily);
+  static const IconData edit = IconData(0xe90d, fontFamily: _fontFamily);
+  static const IconData eye = IconData(0xe90e, fontFamily: _fontFamily);
+  static const IconData eyeClosed = IconData(0xe90f, fontFamily: _fontFamily);
+  static const IconData favorites = IconData(0xe910, fontFamily: _fontFamily);
+  static const IconData gallery = IconData(0xe911, fontFamily: _fontFamily);
+  static const IconData games = IconData(0xe912, fontFamily: _fontFamily);
+  static const IconData grammatical = IconData(0xe913, fontFamily: _fontFamily);
+  static const IconData home = IconData(0xe915, fontFamily: _fontFamily);
+  static const IconData key = IconData(0xe916, fontFamily: _fontFamily);
+  static const IconData library = IconData(0xe917, fontFamily: _fontFamily);
+  static const IconData lightMode = IconData(0xe918, fontFamily: _fontFamily);
+  static const IconData lives = IconData(0xe919, fontFamily: _fontFamily);
+  static const IconData livingOut = IconData(0xe91a, fontFamily: _fontFamily);
+  static const IconData locked = IconData(0xe91b, fontFamily: _fontFamily);
+  static const IconData lockedCircle = IconData(0xe91c, fontFamily: _fontFamily);
+  static const IconData medal = IconData(0xe91d, fontFamily: _fontFamily);
+  static const IconData menuHamburger = IconData(0xe914, fontFamily: _fontFamily);
+  static const IconData microphone = IconData(0xe91e, fontFamily: _fontFamily);
+  static const IconData musics = IconData(0xe91f, fontFamily: _fontFamily);
+  static const IconData none = IconData(0x20, fontFamily: _fontFamily);
+  static const IconData onTv = IconData(0xe920, fontFamily: _fontFamily);
+  static const IconData padlock = IconData(0xe921, fontFamily: _fontFamily);
+  static const IconData padlockCircle = IconData(0xe922, fontFamily: _fontFamily);
+  static const IconData pauseCircle = IconData(0xe923, fontFamily: _fontFamily);
+  static const IconData play = IconData(0xe924, fontFamily: _fontFamily);
+  static const IconData playCircle = IconData(0xe925, fontFamily: _fontFamily);
+  static const IconData questionsAndAnswers = IconData(0xe926, fontFamily: _fontFamily);
+  static const IconData search = IconData(0xe927, fontFamily: _fontFamily);
+  static const IconData settings = IconData(0xe928, fontFamily: _fontFamily);
+  static const IconData situations = IconData(0xe929, fontFamily: _fontFamily);
+  static const IconData likeANative = IconData(0xe92a, fontFamily: _fontFamily);
+  static const IconData success = IconData(0xe92b, fontFamily: _fontFamily);
+  static const IconData successCircle = IconData(0xe92c, fontFamily: _fontFamily);
+  static const IconData switchSides = IconData(0xe92d, fontFamily: _fontFamily);
+  static const IconData textInVideo = IconData(0xe92e, fontFamily: _fontFamily);
+  static const IconData unlocked = IconData(0xe92f, fontFamily: _fontFamily);
+  static const IconData unlockedCircle = IconData(0xe930, fontFamily: _fontFamily);
+  static const IconData vocabulary = IconData(0xe931, fontFamily: _fontFamily);
+  static const IconData warning = IconData(0xe932, fontFamily: _fontFamily);
+  static const IconData warningSign = IconData(0xe933, fontFamily: _fontFamily);
+}

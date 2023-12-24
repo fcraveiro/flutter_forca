@@ -1,0 +1,29 @@
+class Images {
+  static get kennyAvatar => "assets/images/png/game_avatar_kenny.png";
+  static get medal => "assets/images/png/game_medal.png";
+  static get profile => "assets/images/png/game_profile.png";
+  static get logoff => "assets/images/png/game_logoff.png";
+  static get home => "assets/images/png/game_home.png";
+  static get back => "assets/images/png/game_back.png";
+  static get logo => "assets/images/png/game_logo.png";
+  static get enter => "assets/images/png/game_enter.png";
+  static get close => "assets/images/png/game_close.png";
+  static get checkpoint => "assets/images/png/game_checkpoint.png";
+  static get fail => "assets/images/png/game_fail.png";
+  static get padlock => "assets/images/png/game_padlock.png";
+  static get screenshot => "assets/images/png/game_screenshot.png";
+  static get tips => "assets/images/png/game_tips.png";
+  static get perfil => "assets/images/png/game_empty_profile.png";
+  static get pontos => "assets/images/png/game_points.png";
+  static get forca0 => "assets/images/png/game_hangman_0.png";
+  static get forca1 => "assets/images/png/game_hangman_1.png";
+  static get forca2 => "assets/images/png/game_hangman_2.png";
+  static get forca3 => "assets/images/png/game_hangman_3.png";
+  static get forca4 => "assets/images/png/game_hangman_4.png";
+  static get forca5 => "assets/images/png/game_hangman_5.png";
+  static get forca6 => "assets/images/png/game_hangman_6.png";
+  static get forca7 => "assets/images/png/game_hangman_7.png";
+  static get forca8 => "assets/images/png/game_hangman_8.png";
+  static get forca9 => "assets/images/png/game_hangman_9.png";
+  static get forca10 => "assets/images/png/game_hangman_10.png";
+}
